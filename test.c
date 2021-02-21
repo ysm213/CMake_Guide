@@ -6,7 +6,6 @@ void testFunction(void)
 }
 
 //This is br1
-//This is br1 _
 int main(void)
 {
     testFunction();
@@ -15,6 +14,3 @@ int main(void)
 
 //Test
 //This is br2 
-//This is br2_
-//!
-//!!
